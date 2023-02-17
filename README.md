@@ -15,8 +15,6 @@ pip install matplotlib
 
 pip install tkintertable
 
-<br>
-<br>
 ![alt text](https://github.com/dai18088/PortfolioMarkowitzCode/blob/master/1.png)
 ![alt text](https://github.com/dai18088/PortfolioMarkowitzCode/blob/master/2.png)
 ![alt text](https://github.com/dai18088/PortfolioMarkowitzCode/blob/master/3.png)
